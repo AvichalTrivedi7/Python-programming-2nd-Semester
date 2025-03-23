@@ -1,7 +1,7 @@
 
 # 📂 **Python Programming – 2nd Semester**  
 
-📌 **This repository contains work related to **Data Science and Artificial Intelligence**  
+📌 **This repository contains work related to **Data Science and Artificial Intelligence****  
 
 ## 📚 **About the Repository**  
 This repository contains **fundamental and intermediate Python programs** focused on **Data Structures, Algorithms, and AI Foundations**.  
@@ -9,7 +9,6 @@ It serves as a **structured collection of problem-solving exercises** aimed at i
 
 Each program is designed to **reinforce essential concepts** required for **Data Science, Artificial Intelligence, and Computer Science problem-solving**.  
 
----  
 
 ## 📝 Topics Covered  
 
