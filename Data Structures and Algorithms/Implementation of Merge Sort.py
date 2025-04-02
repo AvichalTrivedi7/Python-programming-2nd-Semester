@@ -1,7 +1,3 @@
-import numpy as np
-array1 = list(map(int, input("Enter array elements separated by space: ").split()))
-arr1 = np.array(array1)
-
 def merge_sort(arr):
     # Base case: If the array has only one element or is empty, return
     if len(arr) > 1:
@@ -40,5 +36,6 @@ def merge_sort(arr):
             k += 1
 
 # Example usage
-merge_sort(arr1)
-print("Merge Sort:", arr1)
+l1 = list(map(int, input("Enter list elements separated by space: ").split()))
+merge_sort(l1)
+print("Merge Sort:", l1)
