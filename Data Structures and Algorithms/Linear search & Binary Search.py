@@ -33,6 +33,11 @@ def binarySearch(a, ele):
     leng=len(a)
     if a[leng//2]==ele:
         print(f"Element {ele} found.")
+        return
+    
+    if leng==1 and a[0]!=ele:
+        print("Element not found")
+        return
     
     else:
         if ele > a[(leng//2)]:
