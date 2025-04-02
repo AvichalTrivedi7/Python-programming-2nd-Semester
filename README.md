@@ -15,12 +15,13 @@ Each program is designed to **reinforce essential concepts** required for **Data
 ### 🔹 Array & Linked List Problems  
 - **Array operations**: Creation, Insertion, Deletion, Update, Copy, Sorting  
 - **Linked List operations**: Menu-based program for hands-on practice  
-- **Concatenation, length calculation, and traversal**  
+- **Concatenation, length calculation, and traversal**
+- **Searches - Linear, Binary | Sorting - Selection, Insertion, Merge** 
 
 ### 🔹 Stack & Queue Implementations  
 - **Stack (Array & Linked List representation)**  
 - **Queue (Array & Linked List representation)**  
-- **Menu-driven programs for stack & queue operations**  
+- **Menu-driven programs for stack & queue operations**
 
 ### 🔹 String, Dictionary, and Set Problems  
 - **String manipulation techniques**  
