@@ -20,7 +20,6 @@ def linearSearch(a, ele):
 linearSearch(arr1, elei)
 
 
-
 #Binary Search
 
 def binarySearch1(a,ele):
@@ -42,11 +41,11 @@ def binarySearch(a, ele):
     else:
         if ele > a[(leng//2)]:
             leng=leng//2
-            binarySearch(a[leng:],ele)
+            binarySearch(a[leng+1:],ele)
 
         else:
             leng=leng//2
-            binarySearch(a[:leng],ele)
+            binarySearch(a[:leng-1],ele)
 
 
 binarySearch1(arr1,elei)
