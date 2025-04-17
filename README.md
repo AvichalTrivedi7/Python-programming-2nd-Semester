@@ -30,7 +30,8 @@ Each program is designed to **reinforce essential concepts** required for **Data
 
 ### 🔹 AI & Graph Search Algorithms (Pathfinding Search Algorithms)
 - **A* Search Algorithm for the 8-Puzzle Problem**  
-- **BFS (Breadth-First Search) & DFS (Depth-First Search) for Graph Traversal**  
+- **BFS (Breadth-First Search) & DFS (Depth-First Search) for Graph Traversal**
+- **Binary Search Tree Implementation** 
 
 ### 🔹 Classic AI & Game-Based Problems  
 - **Tic Tac Toe: Player win/loss detection system**  
